@@ -23,7 +23,7 @@
 
 ### 💡 About Me
 
-- 🔭 I'm currently working as a **Backend Developer**
+- 🔭 I'm currently working as a **Backend Developer** at Cranium Indonesia
 - 💼 Focused on backend development with **Java Spring Boot**
 - 🌱 Learning more about **Microservices**, **System Design**, and **DevOps**
 - 🧠 Exploring Python for scripting and automation
