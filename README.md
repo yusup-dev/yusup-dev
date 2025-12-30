@@ -32,9 +32,3 @@
 
 ---
 
-### 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/yusup-dev?ext=chart&theme=dark" alt="LeetCode Stats Chart" />
-</p>
-
