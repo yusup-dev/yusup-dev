@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamad Yusup</h1>
-<h3 align="center">Software Developer | Java & Spring Enthusiast | AI Explorer</h3>
+<h3 align="center">Software Engineer | Java & Spring Enthusiast | AI Explorer</h3>
 
 <p align="center">
   <img 
