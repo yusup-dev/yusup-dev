@@ -2,8 +2,12 @@
 <h3 align="center">Software Developer | Java & Spring Enthusiast | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=I+build+robust+backends+%26+clean+frontends;Java+%7C+Spring+%7C+Vue+%7C+NestJS+%7C+Python;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=I+build+robust+backends+%26+clean+frontends;Java+%7C+Spring+%7C+Vue+%7C+NestJS+%7C+Python;Always+learning%2C+always+building" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 ---
 
